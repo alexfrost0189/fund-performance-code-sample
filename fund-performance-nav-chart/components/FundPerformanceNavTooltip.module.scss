@@ -1,0 +1,44 @@
+.tooltipWrapper {
+  background: rgb(var(--colors-gray-7));
+  padding: 0px 12px 8px 12px;
+  border-radius: 8px;
+}
+
+.quarter {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  padding-bottom: 8px;
+  color: rgb(var(--colors-lantern-main-color));
+  padding-top: 12px;
+}
+
+.values {
+  font-size: 14px;
+  padding-top: 8px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  span {
+    font-weight: 600;
+    margin-right: 4px;
+  }
+  .circle {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-right: 8px;
+  }
+}
+
+.benchmarkWrapper {
+  padding-bottom: 4px;
+
+  .values {
+    border-top: 1px solid rgb(var(--colors-gray-6));
+  }
+}
+
+.kpiWrapper:first-of-type {
+  border-top: 1px solid rgb(var(--colors-gray-6));
+}
