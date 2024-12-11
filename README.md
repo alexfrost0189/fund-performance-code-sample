@@ -1,2 +1,2 @@
 # fund-performance-code-sample
-This repository contains a small code sample showcasing my coding style, best practices, and approach to writing clean, maintainable code. The snippet is extracted from a larger project to demonstrate key concepts such as readability, modularity, and adherence to modern development standards.
+This repository contains a React component demonstrating my approach to building reusable and responsive chart visualizations. The sample highlights my coding style, use of modern React features, and attention to clean, maintainable code. It showcases techniques such as state management, modular structure, and integration with charting libraries.
